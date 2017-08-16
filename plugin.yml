@@ -1,0 +1,8 @@
+name: VoteSystem
+author: DevPhil
+version: 1.0
+main: me.phil.vote.HC
+depends: [Votifier]
+commands:
+
+  vote:
